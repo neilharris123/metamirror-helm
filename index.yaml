@@ -3,12 +3,12 @@ entries:
   metamirror:
   - apiVersion: v2
     appVersion: v0.0.1
-    created: "2022-08-26T16:45:00.922499+02:00"
+    created: "2022-08-26T17:00:27.515698+02:00"
     description: A Helm chart for Kubernetes
-    digest: 2ebd04774e8b88f1ee8be87ec448f4bd5fe3435c7c006c8731f2d4d12f4a09bc
+    digest: fe4b91fb6dd74bf8ac12edde65e27368a6d5264d802553fcac741e634afd6510
     name: metamirror
     type: application
     urls:
     - metamirror-v0.0.1.tgz
     version: v0.0.1
-generated: "2022-08-26T16:45:00.921817+02:00"
+generated: "2022-08-26T17:00:27.515042+02:00"
