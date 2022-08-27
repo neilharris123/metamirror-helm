@@ -3,22 +3,12 @@ entries:
   metamirror:
   - apiVersion: v2
     appVersion: v0.0.1
-<<<<<<< HEAD
-    created: "2022-08-27T17:35:48.910096+02:00"
+    created: "2022-08-27T22:57:26.922913+02:00"
     description: A Helm chart for Kubernetes
-    digest: f63b2e9aa76a2212c50d0c3dbff6891650feffb1ddf9edad0b608d5c30aa68ac
-=======
-    created: "2022-08-27T17:25:35.756844+02:00"
-    description: A Helm chart for Kubernetes
-    digest: b1d6f6e4c47dfc6e5e3462b84c32d407363ea9c70a64a181ca35be7f21263004
->>>>>>> 32580980338bc14f3f8b5bebf60b960ece8d6d12
+    digest: a28d53811b386b000869dcfccbced7b9ca98c60d4de714659579466dca700bcd
     name: metamirror
     type: application
     urls:
     - metamirror-v0.0.1.tgz
     version: v0.0.1
-<<<<<<< HEAD
-generated: "2022-08-27T17:35:48.90916+02:00"
-=======
-generated: "2022-08-27T17:25:35.755852+02:00"
->>>>>>> 32580980338bc14f3f8b5bebf60b960ece8d6d12
+generated: "2022-08-27T22:57:26.92191+02:00"
